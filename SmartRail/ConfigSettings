@@ -1,0 +1,6 @@
+string - name of station
+= - track
+/ - switch
+\ - switch
+* - light
+; - station separator (use on both side of station name Ex: ;Station A;)
